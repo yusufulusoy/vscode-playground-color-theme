@@ -3,6 +3,9 @@
     "displayName": "Playground Color Theme",
     "description": "Playground Color Theme inspired by GraphQL Playground colors.",
     "publisher": "yusufulusoy",
+    "repository": {
+        "url": "https://github.com/yusufulusoy/vscode-playground-color-theme"
+    },
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.57.0"
