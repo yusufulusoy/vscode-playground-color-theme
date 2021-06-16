@@ -1,0 +1,22 @@
+{
+    "name": "playground-color-theme",
+    "displayName": "Playground Color Theme",
+    "description": "Playground Color Theme inspired by GraphQL Playground colors.",
+    "publisher": "yusufulusoy",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Playground Color Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Playground Color Theme-color-theme.json"
+            }
+        ]
+    }
+}
