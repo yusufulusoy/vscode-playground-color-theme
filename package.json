@@ -1,7 +1,7 @@
 {
-    "name": "playground-color-theme",
-    "displayName": "Playground Color Theme",
-    "description": "Playground Color Theme inspired by GraphQL Playground colors.",
+    "name": "indigo-color-theme",
+    "displayName": "Indigo Theme (Dark)",
+    "description": "Indigo Theme (Dark)",
     "publisher": "yusufulusoy",
     "repository": {
         "url": "https://github.com/yusufulusoy/vscode-playground-color-theme"
@@ -16,9 +16,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Playground Color Theme",
+                "label": "Indigo Theme (Dark)",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Playground Color Theme-color-theme.json"
+                "path": "./themes/Indigo-Theme-Dark.json"
             }
         ]
     }
