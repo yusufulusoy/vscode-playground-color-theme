@@ -1,4 +1,4 @@
 # README
-## Playground Color Theme
+## Indigo Theme (Dark)
 
-![VSCode Playground Color Theme](/screenshot.png "Screenshot")
+![VSCode Indigo Theme](/Screen Shot 2022-10-16 at 22.20.12.png "Screenshot")
